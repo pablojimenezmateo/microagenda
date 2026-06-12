@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=microagenda
+Comment=Local agenda and notes
+Exec=microagenda
+TryExec=microagenda
+Icon=microagenda
+Terminal=false
+Categories=Office;Utility;
+StartupWMClass=microagenda
+Keywords=agenda;notes;events;tasks;markdown;

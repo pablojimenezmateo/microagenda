@@ -1,0 +1,11 @@
+# CMake build output
+build/
+_CPack_Packages/
+
+# Packaged artifacts
+*.deb
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*~

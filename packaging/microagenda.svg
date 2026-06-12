@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>microagenda</title>
+  <desc>Icon showing an agenda page with calendar marks and note lines.</desc>
+  <rect width="512" height="512" rx="96" fill="#0d1117"/>
+  <rect x="104" y="82" width="304" height="348" rx="34" fill="#f4f6f8"/>
+  <path d="M104 164h304" stroke="#20303a" stroke-width="18"/>
+  <path d="M166 72v66M346 72v66" stroke="#72e6c6" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="164" cy="222" r="18" fill="#72e6c6"/>
+  <circle cx="236" cy="222" r="18" fill="#20303a"/>
+  <circle cx="308" cy="222" r="18" fill="#20303a"/>
+  <circle cx="164" cy="290" r="18" fill="#20303a"/>
+  <circle cx="236" cy="290" r="18" fill="#72e6c6"/>
+  <circle cx="308" cy="290" r="18" fill="#20303a"/>
+  <path d="M154 356h204" stroke="#20303a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M154 392h146" stroke="#20303a" stroke-width="16" stroke-linecap="round"/>
+</svg>
